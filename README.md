@@ -10,12 +10,7 @@ This repository contains the code and build scripts for the “Building an OS”
 - [About](#about)  
 - [Features](#features)  
 - [Prerequisites](#prerequisites)  
-- [Getting Started / Build Instructions](#getting-started--build-instructions)  
-- [Usage](#usage)  
-- [Project Structure](#project-structure)  
-- [Contributing](#contributing)  
-- [License](#license)  
-- [Links](#links)
+
 
 ---
 
